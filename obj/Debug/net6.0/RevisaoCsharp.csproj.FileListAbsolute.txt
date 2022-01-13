@@ -1,0 +1,15 @@
+C:\RevisaoCsharp\bin\Debug\net6.0\RevisaoCsharp.exe
+C:\RevisaoCsharp\bin\Debug\net6.0\RevisaoCsharp.deps.json
+C:\RevisaoCsharp\bin\Debug\net6.0\RevisaoCsharp.runtimeconfig.json
+C:\RevisaoCsharp\bin\Debug\net6.0\RevisaoCsharp.dll
+C:\RevisaoCsharp\bin\Debug\net6.0\ref\RevisaoCsharp.dll
+C:\RevisaoCsharp\bin\Debug\net6.0\RevisaoCsharp.pdb
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.csproj.AssemblyReference.cache
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.AssemblyInfoInputs.cache
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.AssemblyInfo.cs
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.csproj.CoreCompileInputs.cache
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.dll
+C:\RevisaoCsharp\obj\Debug\net6.0\ref\RevisaoCsharp.dll
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.pdb
+C:\RevisaoCsharp\obj\Debug\net6.0\RevisaoCsharp.genruntimeconfig.cache
